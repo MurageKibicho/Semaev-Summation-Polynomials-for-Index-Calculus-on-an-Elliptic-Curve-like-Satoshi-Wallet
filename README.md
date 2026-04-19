@@ -1,6 +1,7 @@
 # Index Calculus on Elliptic Curves using Semaev Summation Polynomials
 ### Unofficial implementation of Igor Semaev's 2004 paper 'Summation Polynomials and the Discrete Logarithm Problem on Elliptic Curves'
-Complete writeup available at this [link](https://leetarxiv.substack.com/p/semaev-naive-index-calculus)
+Part 1: Introduction to Semaev summation polynomials [link](https://leetarxiv.substack.com/p/semaev-naive-index-calculus)
+Part 2: Resultants, Grobner Basis and the Point Decomposition Problem with Semaev Summation Polynomials [link](https://leetarxiv.substack.com/p/resultants-grobner-basis-semaev)
 
 ![Screenshot of The paper Summation Polynomials and the Discrete Logarithm Problem on Elliptic Curves](PDFs/Readme.png)
 The paper Summation Polynomials and the Discrete Logarithm Problem on Elliptic Curves (Semaev, 2004) introduced the idea of index calculus on an elliptic curve over a prime finite field. 
